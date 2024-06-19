@@ -1,0 +1,21 @@
+Model: Toyota
+Plate Number: QWE-145
+
+Model: Honda-Civic
+Plate Number: XYZ-456
+
+Model: sth
+Plate Number: fgh-123
+
+Model: benz
+Plate Number: VEX-123
+
+Model: benz
+Plate Number: VYT-123
+
+Model: Bentley
+Plate Number: JKL-635
+
+Model: Lambo
+Plate Number: FGH-123
+

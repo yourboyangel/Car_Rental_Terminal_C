@@ -1,0 +1,10 @@
+Reserved Car:
+Model: LandRover
+Plate Number: RZC-123
+Days Reserved: 5
+
+Reserved Car:
+Model: BMW-X3
+Plate Number: TYU-963
+Days Reserved: 100
+
